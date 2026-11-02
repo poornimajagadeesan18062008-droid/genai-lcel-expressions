@@ -80,3 +80,4 @@ print(result)
 
 
 ### RESULT:
+Thus, the LangChain Expression Language (LCEL) expression was designed and implemented successfully.
